@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=org.primefaces.themes -DartifactId=rio -Dversion=3.1.3 -Dfile="G:\Meu Drive\Temp\Temas\rio-layout-3.1.3\rio-theme-3.1.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
