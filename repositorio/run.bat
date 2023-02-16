@@ -15,3 +15,8 @@ mvn install:install-file -DgroupId=org.apache.shiro -DartifactId=shiro-faces -Dv
 mvn install:install-file -DgroupId=org.primefaces.themes -DartifactId=rio -Dversion=3.1.3 -Dfile="G:\Meu Drive\Temp\Temas\rio-layout-3.1.3\rio-theme-3.1.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
 mvn install:install-file -DgroupId=org.primefaces.themes -DartifactId=ultima -Dversion=5.0.0 -Dfile="G:\Meu Drive\Temp\Temas\ultima-5.0.0\ultima-theme-5.0.0.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+
+mvn install:install-file -DgroupId=org.primefaces.themes -DartifactId=ultima -Dversion=5.0.0 -Dfile="G:\Meu Drive\Temp\Temas\ultima-5.0.0\ultima-theme-5.0.0.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+
+mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=11.2.0.4 -Dfile=C:\Dependencias\ojdbc6-11.2.0.4\ojdbc6-11.2.0.4.jar  -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+
