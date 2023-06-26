@@ -42,7 +42,7 @@ mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=httpmime-4.3.
 
 mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=jackson-annotations-2.2.3 -Dversion=2.2.3 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\jackson-annotations-2.2.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
-mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=jackson-core-2.2.3 -Dversion=2.2.3 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\jackson-jackson-core-2.2.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=jackson-core-2.2.3 -Dversion=2.2.3 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\jackson-core-2.2.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
 mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=jackson-databind-2.2.3 -Dversion=2.2.3 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\jackson-databind-2.2.3.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
