@@ -50,4 +50,4 @@ mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=mail -Dversio
 
 mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=opencsv-2.2 -Dversion=2.2 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\opencsv-2.2.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
-mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=snmp6_1 -Dversion=1.0.0 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\snmp6_1.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=snmp6 -Dversion=1.0.0 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\snmp6.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
