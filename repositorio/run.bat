@@ -32,7 +32,7 @@ mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=commons-io-2.
 
 mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=commons-lang3-3.4 -Dversion=3.4 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\commons-lang3-3.4.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
-mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=commons-commons-net-3.1 -Dversion=3.1 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\commons-net-3.1.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
+mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=commons-net-3.1 -Dversion=3.1 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\commons-net-3.1.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
 mvn install:install-file -DgroupId=br.com.gemmap.lisa -DartifactId=commons-validator-1.4.0 -Dversion=1.4.0 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\commons-validator-1.4.0.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
