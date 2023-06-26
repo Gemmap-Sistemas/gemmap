@@ -20,3 +20,4 @@ mvn install:install-file -DgroupId=org.primefaces.themes -DartifactId=ultima -Dv
 
 mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=11.2.0.4 -Dfile=C:\Dependencias\ojdbc6-11.2.0.4\ojdbc6-11.2.0.4.jar  -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
 
+mvn install:install-file -DgroupId=br.com.gemmap.zsdk -DartifactId=ZSDK_ANDROID_API -Dversion=1.0.0 -Dfile="C:\Users\agarcia\Documents\GitHub\Agua\LISA\app\libs\ZSDK_ANDROID_API.jar" -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=. -DcreateChecksum=true
