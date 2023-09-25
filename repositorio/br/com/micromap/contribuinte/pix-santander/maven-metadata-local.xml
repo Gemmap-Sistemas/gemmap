@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.com.micromap.contribuinte</groupId>
+  <artifactId>pix-santander</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230925173537</lastUpdated>
+  </versioning>
+</metadata>
