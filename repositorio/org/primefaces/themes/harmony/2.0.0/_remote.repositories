@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 04 16:22:12 BRT 2024
+harmony-2.0.0.jar>=
+harmony-2.0.0.pom>=
